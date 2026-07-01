@@ -1,5 +1,3 @@
-<img width="829" height="546" alt="image" src="https://github.com/user-attachments/assets/d6667b8d-bf8a-4970-9136-6282132aed65" /># Claude Code配置教程
-
 售后无忧，量大优惠
 
 适配VS Code For Claude Code（包含Trae，Trae CN，Vs code，Cursor），Claude Code CLI，[Claude Desktop](https://vcnibslwmu5u.feishu.cn/wiki/UAYcwIdEUijmL2k2DxPcvjq1n3b)
