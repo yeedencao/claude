@@ -263,7 +263,8 @@ API Key：即刚刚创建的令牌，访问获取https://devaicode.dev/console/t
 
 下一步，选择模型
 
-![img](https://vcnibslwmu5u.feishu.cn/space/api/box/stream/download/asynccode/?code=MTA0ZTMyYmE0ZGViNDE4ZGRhODQ1ZTUxNjIyYTkxZDRfMDB5MDZIOHV3c0RISm91NVFRTVVIM1JWZ1ZLWkoxMnpfVG9rZW46SEg2RGJ0WDRnbzFPTHF4THFxQWN1djRkbnliXzE3ODI5MDI2NTI6MTc4MjkwNjI1Ml9WNA&add_watermark=true&scene_type=CCM)
+<img width="825" height="543" alt="image" src="https://github.com/user-attachments/assets/1f098377-bae3-4e04-ad72-d15094ad2a0d" />
+
 
 保存
 
@@ -305,7 +306,8 @@ Model：claude-opus-4-8 或 claude-sonnet-5
 
 错误例如：status_code=400, invalid params, function name or parameters is empty (2013)
 
-![img](https://vcnibslwmu5u.feishu.cn/space/api/box/stream/download/asynccode/?code=ZDBiNWZhNDcyYTFhYzM3ODk5YTlhYzRiMjkwYjg3ZDNfQ1JodFpNTFpUZUZvbGxhYzk1aTk2SzRsMWJDYllHTVRfVG9rZW46T2NiTGJhZTFsb29UbUJ4YU9LRGNxVVB2bmJlXzE3ODI5MDI2NTI6MTc4MjkwNjI1Ml9WNA&add_watermark=true&scene_type=CCM)
+<img width="821" height="33" alt="image" src="https://github.com/user-attachments/assets/590af5bb-6b8b-422c-b077-dd99465f0ea4" />
+
 
 答：新建一个窗口重新进行对话并减少websarch调用
 
