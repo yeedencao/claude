@@ -20,7 +20,8 @@
 
 **不用开启模型限制**
 
-![img](https://vcnibslwmu5u.feishu.cn/space/api/box/stream/download/asynccode/?code=ZDFkNWQwZmQzMjA4NWJlNTMxNWVjOTZjNDgxOGMzMGZfU1EwOWdPTVo0bXdGQkVLRW5iM1lSZGNCd1F1ODc5WGVfVG9rZW46WEtSWGJFUnNUb09QVlF4NkR5Z2N3RFc2bnhmXzE3ODI5MDI2NTI6MTc4MjkwNjI1Ml9WNA&add_watermark=true&scene_type=CCM)
+<img width="484" height="1021" alt="image" src="https://github.com/user-attachments/assets/e15d23b0-549b-4c72-a6df-81faef487fc4" />
+
 
 ## 一、未安装 claude code
 
@@ -37,7 +38,7 @@ claude --version
 
 成功安装如下后：
 
-![img](https://vcnibslwmu5u.feishu.cn/space/api/box/stream/download/asynccode/?code=OGU0MWU0NGNkZWRlN2UyNDBjMTgzYmU4YzIzZDQ0OTFfZ3Z6RXhjamNld3l2WkVGdEc3N3lVQW9jZXFFeVJrazdfVG9rZW46SFR6amJuQkRGb3Zjczd4alNOWWNOaU1ObnRoXzE3ODI5MDI2NTI6MTc4MjkwNjI1Ml9WNA&add_watermark=true&scene_type=CCM)
+
 
 ## 2.VS Code/Cursor/Trae插件版本
 
@@ -45,7 +46,7 @@ claude --version
 
 步骤二：然后插件市场（快捷键Ctrl+Shift+X）搜索Claude Code for VS Code安装
 
-![img](https://vcnibslwmu5u.feishu.cn/space/api/box/stream/download/asynccode/?code=ZjI1YmM1OWM4YjIwYzMxMGJkOTg4ODQ1ZGU3ZWUzZGZfWDBsU3dQZGNIbnJBV3BVV29NbW9NZG5DSElLU29OMzFfVG9rZW46UUM0T2JHdFpHb1FZRnB4VDJOcWNLU1dBbnViXzE3ODI5MDI2NTI6MTc4MjkwNjI1Ml9WNA&add_watermark=true&scene_type=CCM)
+
 
 ## 3.Claude Desktop配置教程：[Claude Desktop配置教程](https://vcnibslwmu5u.feishu.cn/wiki/UAYcwIdEUijmL2k2DxPcvjq1n3b)
 
